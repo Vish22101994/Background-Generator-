@@ -8,7 +8,7 @@
     "update": "^0.7.4"
   },
   "devDependencies": {
-    "node-sass": "^4.8.3"
+    "node-sass": "^4.13.1"
   },
   "scripts": {
    "compile:sass": "node-sass sass/main.scss css/style.css -w"
